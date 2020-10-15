@@ -1,15 +1,15 @@
-##Orphanages
+## Orphanages
 
 ---
 
 ```sh
 $ git clone https://github.com/LorTrindade/Orphanages.git
 
-$ cd (Orphanages)
+$ cd Orphanages
 
-$ npm install
+$ npm install na raiz do projeto
 
-$ npm start (frontend) or yarn dev (backend)
+$ npm start na raiz do projeto
 ```
 
 ---
